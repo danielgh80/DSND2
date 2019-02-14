@@ -152,22 +152,22 @@ README.md
 
 - Requirements:
 
-     Flask==1.0.2
-     Flask-RESTful==0.3.6
-     h5py==2.8.0
-     image==1.5.24
-     Keras==2.2.0
-     matplotlib==2.2.2
-     mistune==0.8.3
-     nltk==3.3
-     numpy==1.14.5
-     opencv-python==3.4.1.15
-     Pillow==5.1.0
-     pip==18.1
-     scikit-learn==0.19.1
-     scipy==1.1.0
-     tensorflow-gpu==1.8.0
-     tqdm==4.23.4
+ Flask==1.0.2
+ Flask-RESTful==0.3.6
+ h5py==2.8.0
+ image==1.5.24
+ Keras==2.2.0
+ matplotlib==2.2.2
+ mistune==0.8.3
+ nltk==3.3
+ numpy==1.14.5
+ opencv-python==3.4.1.15
+ Pillow==5.1.0
+ pip==18.1
+ scikit-learn==0.19.1
+ scipy==1.1.0
+ tensorflow-gpu==1.8.0
+ tqdm==4.23.4
 
 ## Running the app
 
